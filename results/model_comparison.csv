@@ -1,0 +1,6 @@
+Model,Train Time (s),Inference Time (s),Test Accuracy,Model Path,Model Size (MB)
+BaseCNN,139.32,1.08,44.63,🧠_BaseCNN.pt,189.15
+EfficientNetB0 (Pretrained),342.77,2.05,67.84,🚀_EfficientNetB0_Pretrained.pt,15.61
+ EfficientNetB0 (Scratch),342.62,2.04,39.06,🧱_EfficientNetB0_Scratch.pt,15.61
+ResNet18 (Pretrained),221.19,1.59,66.84,🌀_ResNet18_Pretrained.pt,42.72
+ResNet18 (Scratch),222.34,1.6,44.76,🧩_ResNet18_Scratch.pt,42.72

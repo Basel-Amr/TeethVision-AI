@@ -1,0 +1,55 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment
+.env
+venv/
+ENV/
+data/
+
+# Bytecode
+*.pyc
+
+# Logs
+*.log
+
+# SQLite database
+patients.db
+
+# Uploaded patient images
+static/uploads/
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter check
+.ipynb_checkpoints/
+
+# Model files
+results/*.pt
+results/*.onnx
+
+# Output video/images
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+
+# VS Code
+.vscode/
+
+# Files
+Teeth Classification.pdf
+Teeth DataSet.zip
+
