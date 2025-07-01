@@ -14,13 +14,13 @@ Welcome to **TeethVision AI**, an intelligent deep learning-powered application 
 📸 **App Screenshots**
 
 - **Home Page**  
-  ![](static\homepage.png)
+  ![](static/homepage.png)
 
 - **Leaderboard Page**  
   ![](static/leaderoard.png)
 
 - **Patient Records Database**  
-  ![](static\databasepage.png)
+  ![](static/databasepage.png)
 
 
 ---
